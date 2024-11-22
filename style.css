@@ -76,7 +76,7 @@ body {
 }
 
 .third-slide h1, .third-slide h2 {
-    animation: birthdayTextAnimation 3s ease-in-out forwards;
+    animation: birthdayTextAnimation 6s ease-in-out forwards;
     color: #ff69b4; /* Pink */
 }
 
