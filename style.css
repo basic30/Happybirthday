@@ -132,28 +132,5 @@ body {
 .third-slide .balloon-container .balloon {
     animation-delay: 1s; /* Starts flying after 1 second */
 }
-/* Footer Styles */
-.footer {
-  background-color: #333;
-  color: #fff;
-  text-align: center;
-  padding: 10px 0;
-  position: relative; /* Change to 'fixed' if you want a sticky footer */
-  bottom: 0;
-  width: 100%;
-}
 
-.footer-content p {
-  margin: 5px 0;
-  font-size: 14px;
-}
-
-body {
-  display: flex;
-  flex-direction: column;
-  min-height: 100vh;
-}
-
-main {
-  flex: 1; /* Ensures the main content takes up available space */
-}
+ 
